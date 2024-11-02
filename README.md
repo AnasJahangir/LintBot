@@ -24,7 +24,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/lintbot.git
+   git clone https://github.com/AnasJahangir/lintbot.git
    cd lintbot
    ```
 2. Install dependencies:
